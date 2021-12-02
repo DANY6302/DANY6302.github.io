@@ -1,3 +1,6 @@
 Hola, esta es una prueba
 
 Esto es la primera prueba del curso de Git y Github
+
+Ahora estamos modificando el archivo abriendo desde terminal
+ya echo el repositorio 
