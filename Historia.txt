@@ -2,5 +2,4 @@ Hola, esta es una prueba
 
 Esto es la primera prueba del curso de Git y Github
 
-Ahora estamos modificando el archivo abriendo desde terminal
-ya echo el repositorio 
+Este renglón se conservara despues del Reset soft al segundo commit por que lo dejaremos en stagin y reemplazara el tercer commit 
