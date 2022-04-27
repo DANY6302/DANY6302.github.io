@@ -4,3 +4,5 @@ Esto es la primera prueba del curso de Git y Github
 
 Ahora estamos modificando el archivo abriendo desde terminal
 ya echo el repositorio 
+
+Andy estuvo aquí :3 <3 
